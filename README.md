@@ -12,55 +12,53 @@
 ---
 
 ## 🛠️ Languages & Tools
+<!-- ANIMATED TECH ICONS -->
+<table align="center">
+<tr>
+<td align="center" width="100">
+<a href="#tech-stack">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
+</a>
+<br><b>C#</b>
+</td>
 
-> ### Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48"/>
-</p>
+<td align="center" width="100">
+<a href="#tech-stack">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
+</a>
+<br><b>C++</b>
+</td>
+
+<td align="center" width="100">
+<a href="#tech-stack">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
+</a>
+<br><b>REST API</b>
+</td>
+
+<td align="center" width="100">
+<a href="#tech-stack">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+</a>
+<br><b>GitHub</b>
+</td>
+</tr>
+</table>
+<!-- SKILL ICONS - DARK THEME -->
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css&theme=dark" /> 
+<br> 
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,postman,linux,windows&theme=dark" />
+
+<br><br>
 
 ---
 
-> ### Frontend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48"/>
-</p>
-
----
-
-> ### Tools
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" height="48" alt="VS Code"/>
-  
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-</p>
-
----
-
-> ### Backend & .NET Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
-</p>
-
+> ### Core Concepts
 - ASP.NET Core (MVC, Web APIs)
 - Entity Framework Core (Code First, Migrations, LINQ)
 - Dapper
 - SQL Server (DML, DDL, DCL, TCL, Indexing, Stored Procedures, Triggers)
 - Database Design (ERD, Mapping, Schema)
-
----
-
-> ### Core Concepts
 - OOP (Encapsulation, Inheritance, Polymorphism, Abstraction)
 - SOLID Principles
 - Design Patterns (Repository, Unit of Work, Onion Architecture)
