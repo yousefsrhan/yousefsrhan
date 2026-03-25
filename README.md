@@ -81,6 +81,22 @@
 
 ---
 
+## 🟩 My Contributions 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🧩 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefsrhan&layout=compact&theme=tokyonight)
+
+---
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yousef-mahmoud-sarhan/" target="_blank">
@@ -93,13 +109,3 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40"/>
   </a>
 </p>
-
----
-
-## 🟩 My Contributions 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph.svg">
-</picture>
