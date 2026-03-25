@@ -52,9 +52,15 @@
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,postman,linux,windows&theme=dark" />
 
 </div>
+
 ---
 
-> ### Core Concepts
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### Core Concepts
 - ASP.NET Core (MVC, Web APIs)
 - Entity Framework Core (Code First, Migrations, LINQ)
 - Dapper
@@ -67,9 +73,11 @@
 - Collections & Generics
 - Delegates, Events
 
----
+</td>
 
-> ### Advanced Topics
+<td valign="top" width="50%">
+
+### Advanced Topics
 - Dependency Injection
 - Authentication & Authorization (JWT, Identity)
 - RESTful APIs
@@ -77,6 +85,11 @@
 - Caching (Redis)
 - SignalR (Real-time apps)
 - Error Handling & Logging
+
+</td>
+
+</tr>
+</table>
 
 ---
 
