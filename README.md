@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Yousef%20Sarhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<div align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1Eoq8Gr6f9K0hYhZ1AV1Mc7iRBC1pNWrf" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Yousef%20Sarhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descSize=18&descAlignY=55&textBg=false" width="100%"/><img src="https://drive.google.com/uc?export=view&id=1Eoq8Gr6f9K0hYhZ1AV1Mc7iRBC1pNWrf" width="100%" />
 
+</div>
 ---
 
 ## 📌 About Me
