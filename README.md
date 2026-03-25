@@ -45,9 +45,13 @@
 </tr>
 </table>
 <!-- SKILL ICONS - DARK THEME -->
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css&theme=dark" /> 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css&theme=dark" />
+<br><br>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,postman,linux,windows&theme=dark" />
 
+</div>
 ---
 
 > ### Core Concepts
