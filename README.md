@@ -46,7 +46,6 @@
 </table>
 <!-- SKILL ICONS - DARK THEME -->
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css&theme=dark" /> 
-<br> 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,postman,linux,windows&theme=dark" />
 
 ---
