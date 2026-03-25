@@ -49,8 +49,6 @@
 <br> 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,postman,linux,windows&theme=dark" />
 
-<br><br>
-
 ---
 
 > ### Core Concepts
