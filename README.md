@@ -85,7 +85,7 @@
 
 ---
 
-## 🟩 Contribution Graph (Pacman)
+## 🟩 My Contributions 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph-dark.svg">
