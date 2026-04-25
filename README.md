@@ -108,7 +108,10 @@
 ## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefsrhan&layout=compact&theme=tokyonight" width="600"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefsrhan&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=1800" 
+    width="600"
+  />
 </p>
 
 ---
