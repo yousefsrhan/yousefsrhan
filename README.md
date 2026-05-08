@@ -105,18 +105,6 @@
 
 ---
 
-## 🧩 Most Used Languages
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yousefsrhan&layout=compact&theme=tokyonight&langs_count=10" 
-    width="350" 
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
